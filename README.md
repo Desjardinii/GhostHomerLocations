@@ -4,8 +4,7 @@ With his permission I have created zombie spawn points for them, and packed it i
 
 Install Instructions:
 
-1. If it is not already, unpack your Desolation PBO from the @DesolationServer addon.
-2. Copy the GhostHomerLocations.cfg file from the \Config folder to the @DesolationServer\config\ folder.
-3. Using notepad++ or a simliar editor, edit the PluginList file and add in GhostHomerLocations to the list
-4. Copy the GhostHomerLocations PBO from the \addons folder over to the @DesolationServer\addons\ folder. 
-5. Start the server.  You should now have his custom locations added.
+1. Copy the GhostHomerLocations.cfg file from the \Config folder to the @DesolationServer\config\ folder.
+2. Using notepad++ or a simlilar editor, edit the PluginList file and add in GhostHomerLocations to the list
+3. Copy the GhostHomerLocations PBO from the \addons folder over to the @DesolationServer\addons\ folder. 
+4. Start the server.  You should now have his custom locations added.
