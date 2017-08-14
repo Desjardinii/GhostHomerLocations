@@ -175,8 +175,8 @@ class CfgPluginMapEdits {
 		};
 		class Land_A_tent_4936113800010 {
 			posATL[] = {4936.48,11379.8,-6.10352e-005};
-			vectorUp[] = {-0.00207849,0.000753298,0.999998};
-			vectorDir[] = {-0.0135268,-0.999908,0.000725115};
+			vectorUp[] = {-0.00198341,0.00097656,0.999998};
+			vectorDir[] = {-0.0135268,-0.999908,0.000949644};
 		};
 		class Land_A_tent_4932113790010 {
 			posATL[] = {4932.22,11378.5,-6.10352e-005};
@@ -204,12 +204,12 @@ class CfgPluginMapEdits {
 			vectorDir[] = {-0.130966,-0.991333,0.0103427};
 		};
 		class Land_A_tent_4940114020100 {
-			posATL[] = {4939.68,11402,0.104889};
+			posATL[] = {4939.68,11402,0.0987854};
 			vectorUp[] = {0.0149977,0.0149962,0.999775};
 			vectorDir[] = {0.97639,-0.215715,-0.0114113};
 		};
 		class Land_A_tent_4936114020010 {
-			posATL[] = {4935.5,11401.9,0.104797};
+			posATL[] = {4935.5,11401.9,0.0987854};
 			vectorUp[] = {0.0109998,0.0109991,0.999879};
 			vectorDir[] = {0.10447,-0.99448,0.00979037};
 		};
@@ -453,7 +453,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.00499134,0.00699099,0.999963};
 			vectorDir[] = {0,0.999976,-0.00699108};
 		};
-		class Land_BakedBeans_F_49391138410102 {
+		class Land_BakedBeans_F_49391138410109 {
 			posATL[] = {4938.58,11383.8,0.812988};
 			vectorUp[] = {0.00499134,0.00699099,0.999963};
 			vectorDir[] = {0,0.999976,-0.00699108};
@@ -483,7 +483,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.00499134,0.006,0.99997};
 			vectorDir[] = {0,0.999982,-0.00600007};
 		};
-		class Land_Can_Dented_F_49351139210100 {
+		class Land_Can_Dented_F_49351139210101 {
 			posATL[] = {4935.03,11392.4,0.813293};
 			vectorUp[] = {0.00499134,0.006,0.99997};
 			vectorDir[] = {0,0.999982,-0.00600007};
@@ -498,12 +498,12 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.0149977,0.0149962,0.999775};
 			vectorDir[] = {0.609582,0.792444,-0.0210307};
 		};
-		class Land_SurvivalRadio_F_49351140810102 {
+		class Land_SurvivalRadio_F_49351140810104 {
 			posATL[] = {4934.81,11407.6,0.813202};
 			vectorUp[] = {0.0149977,0.0149962,0.999775};
 			vectorDir[] = {0.0924564,-0.995625,0.013547};
 		};
-		class Land_Can_Rusty_F_493511408101024 {
+		class Land_Can_Rusty_F_49351140810106 {
 			posATL[] = {4935.39,11407.8,0.813232};
 			vectorUp[] = {0.0149977,0.0149962,0.999775};
 			vectorDir[] = {0,0.999888,-0.0149978};
@@ -518,10 +518,10 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.0249935,0.0209912,0.999467};
 			vectorDir[] = {0,0.99978,-0.0209978};
 		};
-		class Land_CampingTable_small_F_4952113920010 {
-			posATL[] = {4951.69,11392.3,0.000213623};
-			vectorUp[] = {0.0189949,0.0149912,0.999707};
-			vectorDir[] = {-0.0350272,0.999284,-0.0143193};
+		class Land_CampingTable_small_F_4950113890010 {
+			posATL[] = {4949.54,11388.9,0.00012207};
+			vectorUp[] = {0.0129966,0.011994,0.999844};
+			vectorDir[] = {0.0129084,-0.999847,0.0118263};
 		};
 		class Land_PortableLongRangeRadio_F_4952113920110 {
 			posATL[] = {4952.04,11392.2,3.05176e-005};
@@ -658,10 +658,10 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.0249911,0.016993,0.999543};
 			vectorDir[] = {-0.0401886,0.999064,-0.01598};
 		};
-		class Vysilacka_4952113931110 {
-			posATL[] = {4951.75,11392.5,0.81366};
-			vectorUp[] = {0.0189949,0.0149872,0.999707};
-			vectorDir[] = {-0.768137,0.640266,0.00499639};
+		class Vysilacka_4949113891100 {
+			posATL[] = {4949.43,11388.9,0.811035};
+			vectorUp[] = {0.0129966,0.011994,0.999844};
+			vectorDir[] = {0.962309,0.271501,-0.0157656};
 		};
 		class Camp_EP1_4954113950010 {
 			posATL[] = {4953.65,11395.2,0.108429};
@@ -970,18 +970,8 @@ class CfgPluginMapEdits {
 		};
 		class Land_WorkStand_F_17301287613110 {
 			posATL[] = {1730.26,12875.9,12.6286};
-			vectorUp[] = {-0.000845728,-0.0247444,0.999693};
-			vectorDir[] = {-0.763844,0.645219,0.0153242};
-		};
-		class Land_FieldToilet_F_1744128850110 {
-			posATL[] = {1744.32,12885.2,-0.0385132};
-			vectorUp[] = {-0.0129966,-0.0209931,0.999695};
-			vectorDir[] = {0.57741,0.816082,0.024644};
-		};
-		class Land_FieldToilet_F_1743128860110 {
-			posATL[] = {1743.21,12886,-0.0365601};
-			vectorUp[] = {-0.0129966,-0.0209931,0.999695};
-			vectorDir[] = {0.57741,0.816082,0.024644};
+			vectorUp[] = {-0.000845728,-0.0247442,0.999693};
+			vectorDir[] = {-0.763844,0.645219,0.0153241};
 		};
 		class Land_Leseni2x_1746128950110 {
 			posATL[] = {1745.89,12895.1,-0.121246};
@@ -1265,41 +1255,11 @@ class CfgPluginMapEdits {
 		};
 		class Land_Camping_Light_F_17301287513010 {
 			posATL[] = {1729.61,12874.7,13.4919};
-			vectorUp[] = {-0.000845728,-0.0247444,0.999693};
-			vectorDir[] = {0,0.999694,0.0247444};
+			vectorUp[] = {-0.000845728,-0.0247442,0.999693};
+			vectorDir[] = {0,0.999694,0.0247442};
 		};
 		class Land_Camping_Light_F_17321288313010 {
 			posATL[] = {1731.74,12882.6,13.47};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {0,1,0};
-		};
-		class Land_Lampa_sidl_3_1746128460010 {
-			posATL[] = {1745.85,12846,0};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {0,1,0};
-		};
-		class Land_Lampa_sidl_3_1766128630010 {
-			posATL[] = {1765.83,12862.8,0};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {0,1,0};
-		};
-		class Land_Lampa_sidl_3_1748128860010 {
-			posATL[] = {1747.73,12885.5,0};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {0,1,0};
-		};
-		class Land_Lampa_sidl_3_1701128500010 {
-			posATL[] = {1701.12,12849.5,0};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {0,1,0};
-		};
-		class Land_Lampa_sidl_3_1727128600010 {
-			posATL[] = {1726.87,12859.8,0};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {0,1,0};
-		};
-		class Land_Lampa_sidl_3_1729128870010 {
-			posATL[] = {1728.64,12886.9,0};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0,1,0};
 		};
@@ -1353,7 +1313,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0,1,0};
 		};
-		class Land_Can_Rusty_F_173512873120101 {
+		class Land_Can_Rusty_F_173512873120108 {
 			posATL[] = {1735.47,12873.5,11.933};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0,1,0};
@@ -1363,7 +1323,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.0932522,-0.0822402,0.99224};
 			vectorDir[] = {0,0.996583,0.0826001};
 		};
-		class Land_TacticalBacon_F_173512873120100 {
+		class Land_TacticalBacon_F_173512873120102 {
 			posATL[] = {1735.26,12873.2,11.9298};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0,1,0};
@@ -1474,9 +1434,9 @@ class CfgPluginMapEdits {
 			vectorDir[] = {0.188801,0.982015,0};
 		};
 		class Land_Wreck_C130J_EP1_ruins_12523176790110 {
-			posATL[] = {12523,17679.3,0.00100708};
-			vectorUp[] = {-0.00499145,-0.00299003,0.999983};
-			vectorDir[] = {0.546521,0.837429,0.00523196};
+			posATL[] = {12523.2,17679.5,0.00100708};
+			vectorUp[] = {-0.00499145,-0.00299006,0.999983};
+			vectorDir[] = {0.546521,0.837429,0.00523198};
 		};
 		class Body_12465177140010 {
 			posATL[] = {12464.8,17714.2,0.0428162};
@@ -1493,7 +1453,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.00570277,0.00185765,0.999982};
 			vectorDir[] = {0.206108,0.978525,-0.00299319};
 		};
-		class Body_124671771400107 {
+		class Body_124671771400101 {
 			posATL[] = {12467.5,17713.6,0.0236359};
 			vectorUp[] = {0.00570277,0.00185765,0.999982};
 			vectorDir[] = {0.206108,0.978525,-0.00299319};
@@ -1573,7 +1533,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.00399666,0.00699955,0.999968};
 			vectorDir[] = {0.439102,0.898401,-0.0080436};
 		};
-		class CUP_A1_Road_road_invisible_124671770800105 {
+		class CUP_A1_Road_road_invisible_124671770800101 {
 			posATL[] = {12466.9,17708.4,0.0573273};
 			vectorUp[] = {0.00384551,0.00756277,0.999964};
 			vectorDir[] = {-0.309626,0.950839,-0.00600052};
@@ -1633,8 +1593,8 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {-0.309632,0.950856,0};
 		};
-		class Land_SignM_WarningMilitaryVehicles_english_F_12488176790010 {
-			posATL[] = {12487.9,17679.3,0};
+		class Land_SignM_WarningMilitaryVehicles_english_F_12488176800010 {
+			posATL[] = {12487.8,17680.1,0};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0.215102,0.976591,0};
 		};
@@ -1673,18 +1633,18 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {-0.309632,0.950856,0};
 		};
-		class Land_BottlePlastic_V2_F_12484176911010 {
-			posATL[] = {12483.6,17690.5,0.791397};
+		class Land_BottlePlastic_V2_F_12482176911010 {
+			posATL[] = {12482,17691.2,0.992737};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {-0.309632,0.950856,0};
 		};
-		class Land_Can_Rusty_F_124841769110103 {
-			posATL[] = {12483.6,17690.7,0.798279};
+		class Land_Can_Rusty_F_12482176921010 {
+			posATL[] = {12481.9,17691.5,0.993958};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {-0.309632,0.950856,0};
 		};
-		class Land_Canteen_F_12482176911010 {
-			posATL[] = {12482.5,17691.3,0.563278};
+		class Land_Canteen_F_124821769110103 {
+			posATL[] = {12481.7,17691.3,0.958862};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {-0.309632,0.950856,0};
 		};
@@ -1863,7 +1823,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.0975304,0.0921584,0.990956};
 			vectorDir[] = {0,0.995703,-0.0925999};
 		};
-		class Land_BarrelWater_F_84111198800107 {
+		class Land_BarrelWater_F_84111198800104 {
 			posATL[] = {8411.11,11987.6,-0.0109253};
 			vectorUp[] = {0.0975304,0.0921584,0.990956};
 			vectorDir[] = {0,0.995703,-0.0925999};
@@ -1878,7 +1838,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.0975304,0.0921584,0.990956};
 			vectorDir[] = {0,0.995703,-0.0925999};
 		};
-		class Land_BarrelWater_F_84101198700101 {
+		class Land_BarrelWater_F_84101198700106 {
 			posATL[] = {8410.28,11986.6,-0.00933838};
 			vectorUp[] = {0.0975304,0.0921584,0.990956};
 			vectorDir[] = {0,0.995703,-0.0925999};
@@ -2003,7 +1963,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.0955631,0.0941423,0.990962};
 			vectorDir[] = {0.89957,-0.434401,-0.0454813};
 		};
-		class Land_Garbage_square5_F_83951200400101 {
+		class Land_Garbage_square5_F_83951200400100 {
 			posATL[] = {8394.78,12003.5,-0.00891113};
 			vectorUp[] = {0.0985202,0.0764008,0.992198};
 			vectorDir[] = {0,0.997048,-0.0767743};
@@ -2062,21 +2022,6 @@ class CfgPluginMapEdits {
 			posATL[] = {8360.54,12006,0};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0.877882,-0.478877,0};
-		};
-		class Land_FieldToilet_F_8390119980010 {
-			posATL[] = {8389.83,11998.2,-0.0220947};
-			vectorUp[] = {0.105409,0.0861889,0.990687};
-			vectorDir[] = {-0.485115,-0.865195,0.126888};
-		};
-		class Land_FieldToilet_F_8391119980010 {
-			posATL[] = {8390.97,11997.6,-0.0236511};
-			vectorUp[] = {0.100489,0.0862331,0.991194};
-			vectorDir[] = {-0.485363,-0.865403,0.124497};
-		};
-		class Land_FieldToilet_F_8392119970010 {
-			posATL[] = {8392.14,11996.9,-0.0237427};
-			vectorUp[] = {0.100489,0.0862331,0.991194};
-			vectorDir[] = {-0.485363,-0.865403,0.124497};
 		};
 		class Land_Pallets_F_8402119900100 {
 			posATL[] = {8402.05,11989.7,-0.00335693};
@@ -2218,40 +2163,15 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.0985202,0.0764008,0.992198};
 			vectorDir[] = {0,0.997048,-0.0767743};
 		};
-		class Land_LampStreet_F_8371119770110 {
-			posATL[] = {8371.24,11976.6,0};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {0.854228,-0.519899,0};
-		};
-		class Land_LampStreet_F_8359119480100 {
-			posATL[] = {8359.05,11948.3,-3.05176e-005};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {-0.896633,0.442774,0};
-		};
-		class Land_Lamp_Small_EP1_8400119990110 {
-			posATL[] = {8399.63,11999.2,0};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {-0.54391,-0.839144,0};
-		};
-		class Land_Lamp_Small_EP1_8381120100110 {
-			posATL[] = {8381.45,12010.3,0};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {-0.54391,-0.839144,0};
-		};
-		class Land_Lamp_Small_EP1_8385119900100 {
-			posATL[] = {8384.61,11990,0};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {-0.899215,0.437508,0};
-		};
 		class Fort_Barricade_EP1_906594650100 {
 			posATL[] = {9064.66,9465.4,-0.000915527};
 			vectorUp[] = {-0.00799344,0.00800064,0.999936};
 			vectorDir[] = {0.986969,-0.16065,0.00917517};
 		};
 		class Land_Barricade_01_10m_F_906794800100 {
-			posATL[] = {9066.63,9480.11,0};
-			vectorUp[] = {0,0.118889,0.992908};
-			vectorDir[] = {-0.991381,0.130082,-0.0155758};
+			posATL[] = {9066.69,9479.6,-3.05176e-005};
+			vectorUp[] = {0,0.0131424,0.999914};
+			vectorDir[] = {-0.991381,0.131,-0.0017218};
 		};
 		class Fort_Barricade_EP1_906394850010 {
 			posATL[] = {9062.77,9485.02,-0.006073};
@@ -2260,7 +2180,7 @@ class CfgPluginMapEdits {
 		};
 		class Land_RowBoat_V3_F_905494870010 {
 			posATL[] = {9054.34,9486.97,0.00177002};
-			vectorUp[] = {0.0579045,0.0578073,0.996647};
+			vectorUp[] = {0.0579041,0.0578073,0.996647};
 			vectorDir[] = {0.131668,0.989159,-0.0650228};
 		};
 		class Fort_Barricade_903894880010 {
@@ -2269,7 +2189,7 @@ class CfgPluginMapEdits {
 			vectorDir[] = {0,1,0};
 		};
 		class Land_Barricade_01_10m_F_905794610010 {
-			posATL[] = {9056.88,9461.22,0};
+			posATL[] = {9056.89,9460.99,0};
 			vectorUp[] = {-0.00418603,0,0.999991};
 			vectorDir[] = {0,1,0};
 		};
@@ -2308,28 +2228,28 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0.956407,0.292038,0};
 		};
-		class Camp_EP1_905994761110 {
-			posATL[] = {9058.91,9476.28,1.36118};
+		class Camp_EP1_905994760110 {
+			posATL[] = {9058.91,9476.28,0};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {-0.531606,-0.846992,0};
 		};
-		class Camp_905794661010 {
-			posATL[] = {9057.09,9466.14,1.01865};
+		class Camp_905794660010 {
+			posATL[] = {9057.09,9466.14,0.00201416};
 			vectorUp[] = {0,0.0029701,0.999996};
 			vectorDir[] = {0,0.999996,-0.0029701};
 		};
-		class FirePlace_burning_F_903794740010 {
-			posATL[] = {9037.42,9473.55,0};
+		class FirePlace_burning_F_903994730010 {
+			posATL[] = {9038.85,9472.72,0};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0,1,0};
 		};
-		class Land_Fire_burning_903894730010 {
-			posATL[] = {9038.27,9472.73,0};
+		class Land_Fire_burning_904094720010 {
+			posATL[] = {9040.26,9472.11,0};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0,1,0};
 		};
-		class Land_FirePlace_F_903894740010 {
-			posATL[] = {9038.29,9473.64,0};
+		class Land_FirePlace_F_903994710010 {
+			posATL[] = {9039.04,9471.48,0};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0,1,0};
 		};
@@ -2342,11 +2262,6 @@ class CfgPluginMapEdits {
 			posATL[] = {9048.16,9473.48,0};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {-0.999924,0.0123226,0};
-		};
-		class CUP_A2_Road_path_6_907694730100 {
-			posATL[] = {9075.97,9472.77,-0.155365};
-			vectorUp[] = {0.0509346,0.00498497,0.99869};
-			vectorDir[] = {-0.988698,0.141435,0.0497191};
 		};
 		class CUP_A2_Road_path_6_904694760010 {
 			posATL[] = {9046.36,9476.37,0};
@@ -2423,20 +2338,15 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {-0.840817,0.54132,0};
 		};
-		class CUP_A2_Road_path_60_10_908194680110 {
-			posATL[] = {9080.64,9468.2,0.262848};
-			vectorUp[] = {0.0279894,-0.0688099,0.997237};
-			vectorDir[] = {0.756082,-0.651125,-0.0661489};
+		class CUP_A2_Road_path_7_100_907494670010 {
+			posATL[] = {9074.12,9466.95,-0.377686};
+			vectorUp[] = {0.0610395,-0.0506513,0.996849};
+			vectorDir[] = {-0.179543,0.981864,0.0608837};
 		};
-		class CUP_A2_Road_path_7_100_908294581010 {
-			posATL[] = {9081.66,9457.72,-1.36505};
-			vectorUp[] = {0.00399666,-0.179057,0.983831};
-			vectorDir[] = {0,0.983838,0.179059};
-		};
-		class CUP_A2_Road_path_7_100_908294452010 {
-			posATL[] = {9082.07,9445.28,-2.05115};
-			vectorUp[] = {-0.0299832,-0.267722,0.96303};
-			vectorDir[] = {-0.217004,0.942227,0.255182};
+		class CUP_A2_Road_path_7_100_907694551010 {
+			posATL[] = {9075.93,9454.63,-1.19455};
+			vectorUp[] = {0.121414,-0.162829,0.979155};
+			vectorDir[] = {-0.228815,0.955294,0.187233};
 		};
 		class Land_BottlePlastic_V2_F_903394701110 {
 			posATL[] = {9033.3,9470.33,0.811981};
@@ -2453,7 +2363,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {-0.804519,0.593928,0};
 		};
-		class Can_small_9034947211109 {
+		class Can_small_9034947211104 {
 			posATL[] = {9034.23,9472.38,0.812988};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {-0.803175,0.595743,0};
@@ -2513,7 +2423,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {-0.999802,-0.0199052,0};
 		};
-		class Land_Garbage_line_F_9048947301003 {
+		class Land_Garbage_line_F_9048947301004 {
 			posATL[] = {9047.7,9473.46,0};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {-0.999802,-0.0199052,0};
@@ -2535,8 +2445,8 @@ class CfgPluginMapEdits {
 		};
 		class Land_GarbageBags_F_903594910010 {
 			posATL[] = {9035.4,9490.75,-0.00088501};
-			vectorUp[] = {0,-0.000976562,1};
-			vectorDir[] = {0,1,0.000976562};
+			vectorUp[] = {0,-0.000976388,1};
+			vectorDir[] = {0,1,0.000976388};
 		};
 		class Land_Garbage_square5_F_904394920010 {
 			posATL[] = {9042.55,9491.87,0};
@@ -2545,23 +2455,23 @@ class CfgPluginMapEdits {
 		};
 		class Land_Garbage_square5_F_903994930010 {
 			posATL[] = {9039.15,9493.14,0};
-			vectorUp[] = {0.000976562,0,1};
+			vectorUp[] = {0.000976388,0,1};
 			vectorDir[] = {0,1,0};
 		};
-		class Land_Garbage_square5_F_903694911010 {
-			posATL[] = {9035.55,9490.61,0.873474};
-			vectorUp[] = {0.503714,-0.216657,0.836261};
-			vectorDir[] = {0,0.96804,0.250798};
+		class Land_Garbage_square5_F_903294920010 {
+			posATL[] = {9032.39,9491.73,6.10352e-005};
+			vectorUp[] = {0,-0.000976388,1};
+			vectorDir[] = {0,1,0.000976388};
 		};
 		class Land_Garbage_square5_F_904094930010 {
 			posATL[] = {9039.58,9493.37,0};
-			vectorUp[] = {0.000976562,0,1};
+			vectorUp[] = {0.000976388,0,1};
 			vectorDir[] = {0,1,0};
 		};
 		class Land_Garbage_square5_F_903794920010 {
 			posATL[] = {9037.15,9492.12,6.10352e-005};
-			vectorUp[] = {0,-0.000976562,1};
-			vectorDir[] = {0,1,0.000976562};
+			vectorUp[] = {0,-0.000976388,1};
+			vectorDir[] = {0,1,0.000976388};
 		};
 		class CUP_A2_Road_path_60_10_903194760110 {
 			posATL[] = {9031.39,9476.48,0};
@@ -2580,8 +2490,8 @@ class CfgPluginMapEdits {
 		};
 		class CUP_A2_Road_path_30_25_904194551010 {
 			posATL[] = {9041.38,9454.64,0.50415};
-			vectorUp[] = {-0.0169983,-0.0757715,0.99698};
-			vectorDir[] = {-0.133641,-0.988005,-0.077368};
+			vectorUp[] = {-0.0169983,-0.0757714,0.99698};
+			vectorDir[] = {-0.133641,-0.988005,-0.0773678};
 		};
 		class CUP_A2_Road_path_10_50_903794462010 {
 			posATL[] = {9037.32,9445.83,-1.52713};
@@ -2623,7 +2533,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0.524594,0.851353,0};
 		};
-		class Land_FMradio_F_9056947811109 {
+		class Land_FMradio_F_9056947811104 {
 			posATL[] = {9055.82,9477.5,0.811951};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0.59812,0.801406,0};
@@ -2833,8 +2743,8 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.00999464,0,0.99995};
 			vectorDir[] = {-0.367533,0.930003,0.00367355};
 		};
-		class Land_PowLines_WoodL_1349297180100 {
-			posATL[] = {13491.9,9717.56,0};
+		class Land_PowLines_WoodL_1349197300100 {
+			posATL[] = {13490.9,9730,-4.76837e-007};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0.9995,0.0316226,0};
 		};
@@ -2939,19 +2849,19 @@ class CfgPluginMapEdits {
 			vectorDir[] = {-0.972103,0.234554,0.000265385};
 		};
 		class Fence_Ind_long_12499176780010 {
-			posATL[] = {12498.5,17678.3,0};
+			posATL[] = {12499.2,17677.9,0};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0.218013,0.975946,0};
 		};
-		class Fence_Ind_12492176800010 {
-			posATL[] = {12492.1,17679.6,0};
+		class Fence_Ind_12493176790010 {
+			posATL[] = {12493,17679.4,0};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0.225998,0.974128,0};
 		};
-		class Fence_Ind_12489176800010 {
-			posATL[] = {12489.3,17680.3,4.57764e-005};
-			vectorUp[] = {0,0.00699108,0.999976};
-			vectorDir[] = {0.225998,0.974104,-0.00681021};
+		class Fence_Ind_12490176800010 {
+			posATL[] = {12490.1,17680.1,0};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {0.225998,0.974128,0};
 		};
 		class Fence_Ind_12481176830010 {
 			posATL[] = {12481.2,17682.5,0};
@@ -3073,12 +2983,12 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.027987,0.0189877,0.999428};
 			vectorDir[] = {0.990442,0.134565,-0.0302919};
 		};
-		class Land_zavora_2_49431141800102 {
+		class Land_zavora_2_49431141800107 {
 			posATL[] = {4943.27,11417.7,0.00726318};
 			vectorUp[] = {0.0199975,0.0199937,0.9996};
 			vectorDir[] = {-0.150369,0.988488,-0.0167632};
 		};
-		class Land_GasCooker_F_49391138410109 {
+		class Land_GasCooker_F_493911384101090 {
 			posATL[] = {4939.14,11383.7,0.813019};
 			vectorUp[] = {0.00499134,0.00699099,0.999963};
 			vectorDir[] = {0,0.999976,-0.00699108};
@@ -3218,7 +3128,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.00699926,0.0119947,0.999904};
 			vectorDir[] = {0,0.999928,-0.011995};
 		};
-		class Garbage_can_13489969500108 {
+		class Garbage_can_13489969500107 {
 			posATL[] = {13488.6,9695.07,0.000466824};
 			vectorUp[] = {0.00999464,0.0089963,0.99991};
 			vectorDir[] = {0,0.99996,-0.00899675};
@@ -3283,10 +3193,10 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0.581505,0.813543,0};
 		};
-		class hiluxWreck_1349197180100 {
-			posATL[] = {13490.6,9717.76,0};
+		class hiluxWreck_1349297180110 {
+			posATL[] = {13491.7,9718.4,0};
 			vectorUp[] = {0,0,1};
-			vectorDir[] = {0.954985,0.296653,0};
+			vectorDir[] = {0.640339,0.768092,0};
 		};
 		class LADAWreck_1350696960010 {
 			posATL[] = {13506,9695.95,0.00112629};
@@ -3312,11 +3222,6 @@ class CfgPluginMapEdits {
 			posATL[] = {1724.8,12881.1,0.00131226};
 			vectorUp[] = {0.00103552,-0.0189982,0.999819};
 			vectorDir[] = {0,0.99982,0.0189983};
-		};
-		class Land_Fire_4931113810010 {
-			posATL[] = {4930.94,11381,0};
-			vectorUp[] = {-0.00198341,0,0.999998};
-			vectorDir[] = {0,1,0};
 		};
 		class ACamp_903794840100 {
 			posATL[] = {9036.58,9483.64,0};
@@ -3583,7 +3488,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.0100004,0.0089963,0.99991};
 			vectorDir[] = {0,0.99996,-0.00899675};
 		};
-		class CUP_b_salix2s_49491141000106 {
+		class CUP_b_salix2s_49491141000103 {
 			posATL[] = {4948.92,11409.9,0.000946045};
 			vectorUp[] = {0.0179961,0.0169956,0.999694};
 			vectorDir[] = {0,0.999856,-0.0169983};
@@ -3593,7 +3498,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.0209977,0.0169981,0.999635};
 			vectorDir[] = {0,0.999855,-0.0170018};
 		};
-		class CUP_b_PinusM1s_EP1_49441143300102 {
+		class CUP_b_PinusM1s_EP1_49441143300106 {
 			posATL[] = {4943.82,11433.2,0.0109253};
 			vectorUp[] = {0.0259917,0.00699724,0.999638};
 			vectorDir[] = {0,0.999976,-0.0069996};
@@ -3610,16 +3515,11 @@ class CfgPluginMapEdits {
 		};
 		class CUP_b_Elderberry2s_PMC_905694850010 {
 			posATL[] = {9055.61,9484.7,0.0219421};
-			vectorUp[] = {0.0579045,0.0578073,0.996647};
+			vectorUp[] = {0.0579041,0.0578073,0.996647};
 			vectorDir[] = {0,0.998322,-0.0579045};
 		};
 		class CUP_b_Elderberry2s_PMC_903294680010 {
 			posATL[] = {9032.06,9467.78,0};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {0,1,0};
-		};
-		class CUP_A1_Road_road_invisible_903894760010 {
-			posATL[] = {9037.92,9476.25,0};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0,1,0};
 		};
@@ -3814,17 +3714,17 @@ class CfgPluginMapEdits {
 			vectorDir[] = {0.588905,0.8082,-0.00160299};
 		};
 		class CraterLong_12524176790110 {
-			posATL[] = {12524.4,17678.9,0.00997925};
-			vectorUp[] = {-0.00499145,-0.00299003,0.999983};
-			vectorDir[] = {0.588898,0.80819,0.00535606};
+			posATL[] = {12524,17679.3,0.00996399};
+			vectorUp[] = {-0.00499145,-0.00299006,0.999983};
+			vectorDir[] = {0.588898,0.80819,0.00535608};
 		};
 		class CraterLong_12528176840110 {
-			posATL[] = {12528,17683.5,-0.0101929};
+			posATL[] = {12527.6,17684.1,-0.0138397};
 			vectorUp[] = {0,0.00899012,0.99996};
 			vectorDir[] = {0.588908,0.808168,-0.00726582};
 		};
-		class CraterLong_12532176890110 {
-			posATL[] = {12532.2,17689.3,-0.00270081};
+		class CraterLong_12532176900110 {
+			posATL[] = {12532,17689.5,-0.0101776};
 			vectorUp[] = {-0.00198341,0.00800088,0.999966};
 			vectorDir[] = {0.588906,0.808184,-0.00529833};
 		};
@@ -3837,16 +3737,6 @@ class CfgPluginMapEdits {
 			posATL[] = {12505.4,17675,0};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {-0.989124,0.147084,0};
-		};
-		class Land_Lampa_ind_12479176570010 {
-			posATL[] = {12479.5,17657.3,0};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {-0.318313,-0.947986,0};
-		};
-		class Land_Lampa_ind_12486176980010 {
-			posATL[] = {12486,17698.2,0};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {-0.33478,-0.942296,0};
 		};
 		class Land_Tovarna2_1732128700110 {
 			posATL[] = {1732.28,12869.7,0.391418};
@@ -4793,26 +4683,6 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.0156781,0.0136765,0.999784};
 			vectorDir[] = {-0.127506,0.99177,-0.0115674};
 		};
-		class Land_Lampa_ind_4947113980110 {
-			posATL[] = {4947.34,11398.5,-3.05176e-005};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {0.541816,0.840497,0};
-		};
-		class Land_Lampa_ind_4941114120010 {
-			posATL[] = {4940.72,11412.5,0};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {0.11167,-0.993745,0};
-		};
-		class Land_Lampa_ind_4971113990100 {
-			posATL[] = {4971.3,11398.7,0};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {0.975502,0.219991,0};
-		};
-		class Land_Lampa_ind_4944114270010 {
-			posATL[] = {4943.95,11427.1,3.05176e-005};
-			vectorUp[] = {0,0,1};
-			vectorDir[] = {-0.0642632,0.997933,0};
-		};
 		class Land_Fire_4937113940010 {
 			posATL[] = {4936.59,11393.8,3.05176e-005};
 			vectorUp[] = {0.0109998,0.0119993,0.999867};
@@ -4823,22 +4693,12 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.00198347,0.00299009,0.999994};
 			vectorDir[] = {0,0.999996,-0.0029901};
 		};
-		class Land_Camping_Light_F_49351139210103 {
-			posATL[] = {4935.14,11392.1,0.813354};
-			vectorUp[] = {0.00499134,0.006,0.99997};
-			vectorDir[] = {0,0.999982,-0.00600007};
-		};
-		class Land_Camping_Light_F_49341137910104 {
-			posATL[] = {4933.96,11378.6,0.864594};
-			vectorUp[] = {-0.00198341,0.00097656,0.999998};
-			vectorDir[] = {0,1,-0.000976562};
-		};
-		class Sign_1L_Firstaid_124611770500105 {
+		class Sign_1L_Firstaid_124611770500102 {
 			posATL[] = {12461.5,17704.7,4.57764e-005};
 			vectorUp[] = {0.00599983,0.00599997,0.999964};
 			vectorDir[] = {0.222531,0.974899,-0.00718477};
 		};
-		class Sign_1L_Firstaid_124641770400100 {
+		class Sign_1L_Firstaid_124641770400101 {
 			posATL[] = {12464.1,17704.2,4.57764e-005};
 			vectorUp[] = {0.00599983,0.00599997,0.999964};
 			vectorDir[] = {0.222531,0.974899,-0.00718477};
@@ -4918,7 +4778,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {0.0955598,0.0833224,0.99193};
 			vectorDir[] = {0.509031,0.852254,-0.120628};
 		};
-		class Sign_F_83661197400106 {
+		class Sign_F_83661197400105 {
 			posATL[] = {8365.95,11973.7,0};
 			vectorUp[] = {0,0,1};
 			vectorDir[] = {0.492742,0.870176,0};
@@ -5118,15 +4978,15 @@ class CfgPluginMapEdits {
 			vectorUp[] = {-0.0029901,-0.0229941,0.999731};
 			vectorDir[] = {0,0.999736,0.0229942};
 		};
-		class Fort_Crate_wood_903994520010 {
-			posATL[] = {9039.29,9451.66,0.0015564};
-			vectorUp[] = {0,-0.0757825,0.997124};
-			vectorDir[] = {0,0.997124,0.0757825};
+		class Fort_Crate_wood_907994940010 {
+			posATL[] = {9079.23,9494.03,0.0335999};
+			vectorUp[] = {0.212063,0.299529,0.930221};
+			vectorDir[] = {0,0.951871,-0.3065};
 		};
-		class Fort_Crate_wood_903894500010 {
-			posATL[] = {9038.3,9450.31,0.00115967};
-			vectorUp[] = {0.0130012,-0.0628704,0.997937};
-			vectorDir[] = {0,0.998021,0.0628757};
+		class Fort_Crate_wood_907894920010 {
+			posATL[] = {9077.92,9492.03,0.0237427};
+			vectorUp[] = {0.167596,0.261406,0.950567};
+			vectorDir[] = {0,0.964205,-0.265157};
 		};
 		class Fort_Crate_wood_905994700010 {
 			posATL[] = {9059.08,9469.54,3.05176e-005};
@@ -5678,10 +5538,10 @@ class CfgPluginMapEdits {
 			vectorUp[] = {-0.0429602,-0.0608295,0.997223};
 			vectorDir[] = {-0.190846,-0.979265,-0.0679557};
 		};
-		class LADAWreck_2136199601110 {
-			posATL[] = {2135.74,19960,1.46848};
-			vectorUp[] = {0.0703234,0.0282245,-0.997125};
-			vectorDir[] = {-0.545081,0.838254,-0.014715};
+		class LADAWreck_2132199490110 {
+			posATL[] = {2131.98,19948.5,-0.00662231};
+			vectorUp[] = {-0.0459499,-0.0647938,0.99684};
+			vectorDir[] = {-0.815548,-0.573823,-0.0748911};
 		};
 		class UAZWreck_2161199830100 {
 			posATL[] = {2161.3,19983,-0.0184326};
@@ -5738,7 +5598,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {-0.0458772,-0.0639265,0.9969};
 			vectorDir[] = {-0.597176,-0.798243,-0.0786695};
 		};
-		class Body_21651997801107 {
+		class Body_21651997801108 {
 			posATL[] = {2164.84,19978.2,0.0010376};
 			vectorUp[] = {-0.0499385,-0.0608098,0.996899};
 			vectorDir[] = {-0.59706,-0.798336,-0.0786066};
@@ -5748,7 +5608,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {-0.0499385,-0.0608098,0.996899};
 			vectorDir[] = {-0.59706,-0.798336,-0.0786066};
 		};
-		class Body_21641997901107 {
+		class Body_21641997901108 {
 			posATL[] = {2163.62,19979.1,0.0010376};
 			vectorUp[] = {-0.0499385,-0.0608098,0.996899};
 			vectorDir[] = {-0.59706,-0.798336,-0.0786066};
@@ -5758,7 +5618,7 @@ class CfgPluginMapEdits {
 			vectorUp[] = {-0.0499385,-0.0608098,0.996899};
 			vectorDir[] = {-0.59706,-0.798336,-0.0786066};
 		};
-		class CampEastC_21421999601101 {
+		class CampEastC_21421999601108 {
 			posATL[] = {2142.27,19995.7,0.00335693};
 			vectorUp[] = {-0.0469472,-0.0618117,0.996983};
 			vectorDir[] = {-0.772571,0.634921,0.00298453};
@@ -5997,6 +5857,246 @@ class CfgPluginMapEdits {
 			posATL[] = {2146.88,19966.2,-0.117065};
 			vectorUp[] = {-0.0449529,-0.0598318,0.997196};
 			vectorDir[] = {0.765029,-0.643983,-0.004152};
+		};
+		class Fort_Crate_wood_12482176910010 {
+			posATL[] = {12481.7,17691.3,0};
+			vectorUp[] = {-0.00699108,0,0.999976};
+			vectorDir[] = {0,1,0};
+		};
+		class Fort_Crate_wood_12483176910010 {
+			posATL[] = {12483,17690.7,0};
+			vectorUp[] = {-0.00699108,0,0.999976};
+			vectorDir[] = {0.278819,0.960342,0.00194929};
+		};
+		class Land_Lampa_Ind_EP1_1745128460110 {
+			posATL[] = {1745.11,12846.4,0};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {-0.822862,0.568242,0};
+		};
+		class Land_Lampa_Ind_EP1_1747128850110 {
+			posATL[] = {1747.5,12885.5,0};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {-0.622597,-0.782542,0};
+		};
+		class Land_Lampa_Ind_EP1_1716128700110 {
+			posATL[] = {1716.29,12870.2,0};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {-0.822862,0.568242,0};
+		};
+		class Land_Lampa_Ind_EP1_1729128870100 {
+			posATL[] = {1729.18,12886.8,0.00549316};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {0.98799,-0.15452,0};
+		};
+		class Land_Lampa_Ind_EP1_1759128630010 {
+			posATL[] = {1758.74,12862.6,3.05176e-005};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {0.0883543,-0.996089,0};
+		};
+		class CUP_A2_Road_path_60_10_907594751110 {
+			posATL[] = {9075.39,9474.84,-0.976196};
+			vectorUp[] = {0.156066,0.10994,0.981609};
+			vectorDir[] = {-0.512876,-0.8403,0.175655};
+		};
+		class CUP_A2_Road_path_60_10_907894781010 {
+			posATL[] = {9078.4,9478.18,-0.781342};
+			vectorUp[] = {0.165221,0.0956309,0.981609};
+			vectorDir[] = {0.088979,-0.992674,0.0817323};
+		};
+		class CUP_A2_Road_path_7_100_908194871010 {
+			posATL[] = {9080.6,9487.1,1.40701};
+			vectorUp[] = {0.0975304,0.207334,0.973396};
+			vectorDir[] = {0,0.978059,-0.208327};
+		};
+		class CUP_A2_Road_path_7_100_908194992010 {
+			posATL[] = {9081.49,9498.67,2.15695};
+			vectorUp[] = {0.141588,0.31223,0.939396};
+			vectorDir[] = {0.043891,0.946043,-0.321055};
+		};
+		class CUP_A2_Road_path_60_10_908595082010 {
+			posATL[] = {9084.69,9508.29,2.1084};
+			vectorUp[] = {0.126964,0.403271,0.90623};
+			vectorDir[] = {0.0326467,0.91143,-0.410158};
+		};
+		class CUP_A2_Road_path_60_10_908995142010 {
+			posATL[] = {9088.6,9514.02,-2.3764};
+			vectorUp[] = {0.121102,0.470298,0.874159};
+			vectorDir[] = {-0.0443759,-0.877195,0.478079};
+		};
+		class CUP_A2_Road_path_7_100_909295234011 {
+			posATL[] = {9091.82,9523,3.51868};
+			vectorUp[] = {0.0399667,0.534423,0.844272};
+			vectorDir[] = {0.0443022,0.843168,-0.535821};
+		};
+		class CUP_A2_Road_path_7_100_909395334011 {
+			posATL[] = {9093.34,9533.39,4.13791};
+			vectorUp[] = {0.00201303,0.633153,0.774024};
+			vectorDir[] = {0.0443376,0.773208,-0.632601};
+		};
+		class CUP_A2_Road_path_7_100_909595435011 {
+			posATL[] = {9094.72,9542.84,4.63718};
+			vectorUp[] = {0.116205,0.695908,0.708666};
+			vectorDir[] = {0.0440373,0.709188,-0.703642};
+		};
+		class CUP_A2_Road_path_7_100_909795533010 {
+			posATL[] = {9096.93,9552.78,2.79477};
+			vectorUp[] = {0.067845,0.421416,0.904326};
+			vectorDir[] = {0.16621,0.888974,-0.426732};
+		};
+		class CUP_A2_Road_path_6_909995600010 {
+			posATL[] = {9099.16,9560.4,0.338074};
+			vectorUp[] = {-0.176197,0.169683,0.96962};
+			vectorDir[] = {0.313248,0.943489,-0.108188};
+		};
+		class Fort_Crate_wood_910195590010 {
+			posATL[] = {9100.61,9558.84,0.0115051};
+			vectorUp[] = {-0.136266,0.173125,0.975428};
+			vectorDir[] = {-0.397934,0.892123,-0.21393};
+		};
+		class Fort_Crate_wood_910195570010 {
+			posATL[] = {9100.61,9557.19,0.0237732};
+			vectorUp[] = {-0.0539216,0.213619,0.975428};
+			vectorDir[] = {0,0.976849,-0.21393};
+		};
+		class Land_Pallets_stack_F_909695570110 {
+			posATL[] = {9095.81,9556.99,0.0335693};
+			vectorUp[] = {-0.00873124,0.274435,0.961566};
+			vectorDir[] = {0.602715,0.768745,-0.21393};
+		};
+		class CUP_A2_Road_path_7_100_901394840110 {
+			posATL[] = {9013.03,9483.62,-0.143829};
+			vectorUp[] = {0.0267925,-0.00106613,0.99964};
+			vectorDir[] = {-0.846337,0.532139,0.0232512};
+		};
+		class Paleta2_909795600010 {
+			posATL[] = {9097.36,9559.93,-0.198944};
+			vectorUp[] = {-0.176197,0.210583,0.961566};
+			vectorDir[] = {0.205043,-0.94757,0.24509};
+		};
+		class Land_Misc_Garb_Heap_EP1_909995550010 {
+			posATL[] = {9099.46,9554.52,0.125641};
+			vectorUp[] = {-0.176197,0.210583,0.961566};
+			vectorDir[] = {0,0.976849,-0.21393};
+		};
+		class Land_KBud_8392119960110 {
+			posATL[] = {8391.77,11996.2,0.0164795};
+			vectorUp[] = {0.100489,0.0862331,0.991194};
+			vectorDir[] = {-0.516648,-0.846868,0.126056};
+		};
+		class Land_KBud_8390119970110 {
+			posATL[] = {8390.29,11997.3,0.0164795};
+			vectorUp[] = {0.100489,0.0862331,0.991194};
+			vectorDir[] = {-0.516648,-0.846868,0.126056};
+		};
+		class Land_KBud_12491176960100 {
+			posATL[] = {12491.5,17696.3,0};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {0.974867,-0.222788,0};
+		};
+		class Land_KBud_1351097110010 {
+			posATL[] = {13509.7,9711.01,0};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {-0.0122373,-0.999925,0};
+		};
+		class Land_KBud_4965113870010 {
+			posATL[] = {4965.09,11386.8,0.00146484};
+			vectorUp[] = {0.0238127,0.0168042,0.999575};
+			vectorDir[] = {-0.213137,-0.976786,0.0214986};
+		};
+		class Satelit_4950113883110 {
+			posATL[] = {4949.81,11388.1,2.64987};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {-0.820158,-0.572137,0};
+		};
+		class Land_FirePlace_F_4932113820010 {
+			posATL[] = {4932.05,11382.1,3.05176e-005};
+			vectorUp[] = {-0.00198341,0,0.999998};
+			vectorDir[] = {0,1,0};
+		};
+		class Land_KBud_15167210010 {
+			posATL[] = {150.68,6720.9,0};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {0.156732,-0.987641,0};
+		};
+		class Land_KBud_1745128860110 {
+			posATL[] = {1744.96,12885.5,0.00167847};
+			vectorUp[] = {-0.0138574,-0.0236889,0.999623};
+			vectorDir[] = {0.657701,0.752797,0.0269571};
+		};
+		class Land_KBud_1744128860110 {
+			posATL[] = {1743.92,12886.4,0.00167847};
+			vectorUp[] = {-0.0149939,-0.0229893,0.999623};
+			vectorDir[] = {0.65346,0.756473,0.0271989};
+		};
+		class CUP_sign_danger_1722128410110 {
+			posATL[] = {1722.47,12841.3,-0.499451};
+			vectorUp[] = {0.0149352,-0.0107163,0.999831};
+			vectorDir[] = {-0.805908,0.591756,0.018381};
+		};
+		class CUP_sign_danger_1719128370110 {
+			posATL[] = {1719.03,12836.7,-0.49939};
+			vectorUp[] = {0.0160037,-0.00999908,0.999822};
+			vectorDir[] = {-0.805897,0.591756,0.0188177};
+		};
+		class Land_LampShabby_F_2127199380110 {
+			posATL[] = {2127.26,19938.3,0};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {-0.681374,0.731936,0};
+		};
+		class Land_LampShabby_F_2164200090110 {
+			posATL[] = {2163.83,20009.1,3.05176e-005};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {0.697495,-0.716589,0};
+		};
+		class Land_LampShabby_F_14167190010 {
+			posATL[] = {141.077,6718.88,0};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {-0.176912,0.984227,0};
+		};
+		class Land_LampShabby_F_24367490010 {
+			posATL[] = {242.857,6749.13,0.0117383};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {0.0270986,-0.999633,0};
+		};
+		class Land_LampShabby_F_4952114360010 {
+			posATL[] = {4952.07,11435.9,0};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {-0.320894,0.947115,0};
+		};
+		class Land_LampShabby_F_4940114120100 {
+			posATL[] = {4940,11412.3,-0.00897217};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {0.932138,0.362103,0};
+		};
+		class Land_LampShabby_F_4972113980010 {
+			posATL[] = {4972.34,11397.7,-0.0109863};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {0.09434,0.99554,0};
+		};
+		class Land_LampShabby_F_8356119360100 {
+			posATL[] = {8355.73,11936.3,-3.05176e-005};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {-0.871433,0.490515,0};
+		};
+		class Land_LampShabby_F_8385119900110 {
+			posATL[] = {8385.22,11990.4,-0.0487061};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {-0.845992,0.533195,0};
+		};
+		class Land_LampShabby_F_8381120110010 {
+			posATL[] = {8381.15,12010.5,0};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {-0.353838,-0.935307,0};
+		};
+		class Land_LampShabby_F_8366119700100 {
+			posATL[] = {8365.86,11970.5,0};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {0.878758,-0.477268,0};
+		};
+		class Land_LampShabby_F_12486176990100 {
+			posATL[] = {12486.1,17698.9,0};
+			vectorUp[] = {0,0,1};
+			vectorDir[] = {0.953661,-0.300885,0};
 		};
 	};
 };
